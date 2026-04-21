@@ -1,41 +1,39 @@
-doc_id,filename,file_format,doc_title,doc_type,compliance_area,compliance_subarea,source_authority,income_band_min,income_band_max,workforce_model,paid_headcount_band,volunteer_scale,complexity,jurisdiction,ico_relevant,special_category_data,regulated_activity,approx_pages,contains_named_individuals,contains_named_organisations,anonymisation_required,notes
-doc_001,,docx,,policy,,,repository,,,,,,,scotland,false,false,false,,,,,
-doc_002,,pdf,,policy,,,repository,,,,,,,scotland,false,false,false,,,,,
-doc_003,,docx,,policy,,,repository,,,,,,,scotland,false,false,false,,,,,
-doc_004,,pdf,,policy,,,repository,,,,,,,scotland,false,false,false,,,,,
-doc_005,,docx,,policy,,,repository,,,,,,,scotland,false,false,false,,,,,
-doc_006,,pdf,,policy,,,repository,,,,,,,scotland,false,false,false,,,,,
-doc_007,,docx,,policy,,,repository,,,,,,,scotland,false,false,false,,,,,
-doc_008,,pdf,,policy,,,repository,,,,,,,scotland,false,false,false,,,,,
-doc_009,,docx,,policy,,,repository,,,,,,,scotland,false,false,false,,,,,
-doc_010,,pdf,,policy,,,repository,,,,,,,scotland,false,false,false,,,,,
-doc_011,,docx,,policy,,,repository,,,,,,,scotland,false,false,false,,,,,
-doc_012,,pdf,,policy,,,repository,,,,,,,scotland,false,false,false,,,,,
-doc_013,,docx,,policy,,,repository,,,,,,,scotland,false,false,false,,,,,
-doc_014,,pdf,,policy,,,repository,,,,,,,scotland,false,false,false,,,,,
-doc_015,,docx,,policy,,,repository,,,,,,,scotland,false,false,false,,,,,
-doc_016,,pdf,,policy,,,repository,,,,,,,scotland,false,false,false,,,,,
-doc_017,,docx,,policy,,,repository,,,,,,,scotland,false,false,false,,,,,
-doc_018,,pdf,,policy,,,repository,,,,,,,scotland,false,false,false,,,,,
-doc_019,,docx,,policy,,,repository,,,,,,,scotland,false,false,false,,,,,
-doc_020,,pdf,,policy,,,repository,,,,,,,scotland,false,false,false,,,,,
-doc_021,,docx,,policy,,,repository,,,,,,,scotland,false,false,false,,,,,
-doc_022,,pdf,,policy,,,repository,,,,,,,scotland,false,false,false,,,,,
-doc_023,,docx,,policy,,,repository,,,,,,,scotland,false,false,false,,,,,
-doc_024,,pdf,,policy,,,repository,,,,,,,scotland,false,false,false,,,,,
-doc_025,,docx,,policy,,,repository,,,,,,,scotland,false,false,false,,,,,
-doc_026,,pdf,,policy,,,repository,,,,,,,scotland,false,false,false,,,,,
-doc_027,,docx,,policy,,,repository,,,,,,,scotland,false,false,false,,,,,
-doc_028,,pdf,,policy,,,repository,,,,,,,scotland,false,false,false,,,,,
-doc_029,,html,,guidance,,,repository,,,,,,,scotland,false,false,false,,,,,
-doc_030,,html,,guidance,,,repository,,,,,,,scotland,false,false,false,,,,,
-doc_031,,html,,guidance,,,repository,,,,,,,scotland,false,false,false,,,,,
-doc_032,,pptx,,framework,,,repository,,,,,,,scotland,false,false,false,,,,,
-doc_033,,docx,,policy,,,repository,,,,,,,scotland,false,false,false,,,,,
-doc_034,,pdf,,policy,,,repository,,,,,,,scotland,false,false,false,,,,,
-doc_035,,docx,,policy,,,repository,,,,,,,scotland,false,false,false,,,,,
-doc_036,,pdf,,policy,,,repository,,,,,,,scotland,false,false,false,,,,,
-doc_037,,docx,,policy,,,repository,,,,,,,scotland,false,false,false,,,,,
-doc_038,,pdf,,policy,,,repository,,,,,,,scotland,false,false,false,,,,,
-doc_039,,docx,,policy,,,repository,,,,,,,scotland,false,false,false,,,,,
-doc_040,,pdf,,policy,,,repository,,,,,,,scotland,false,false,false,,,,,
+doc_id,filename,file_format,doc_title,compliance_area,compliance_subarea,doc_type,source_authority,approx_pages,contains_named_individuals,contains_named_organisations,anonymisation_required,notes
+doc_001,AGM 2026 Member Voting Pack.pptx,pptx,AGM Member Voting Pack 2026,governance,agm_and_meetings,example,repository,,false,true,true,EPS document — anonymise to Caledonian Arts Forum
+doc_002,EPS AGM 2026 - Agenda.docx,docx,AGM Agenda 2026,governance,agm_and_meetings,example,repository,,false,true,true,EPS document — anonymise to Caledonian Arts Forum
+doc_003,EPS Appropriate Behaviour Policy v1.2 20250921.docx,docx,Appropriate Behaviour Policy,governance,conduct_and_behaviour,policy,repository,,false,true,true,EPS document — anonymise to Caledonian Arts Forum
+doc_004,EPS Constitution 2026 v2.1.docx,docx,Constitution 2026,governance,constitutional_documents,framework,repository,,false,true,true,EPS document — anonymise to Caledonian Arts Forum
+doc_007,EPS Data Protection Policy - 2026 V2.2.docx,docx,Data Protection Policy,data_protection,data_protection_policy,policy,repository,,false,true,true,EPS document — anonymise to Caledonian Arts Forum. ICO relevant.
+doc_008,EPS Privacy Notice - 2026 V2.2.docx,docx,Privacy Notice,data_protection,privacy_notice,policy,repository,,false,true,true,EPS document — anonymise to Caledonian Arts Forum. ICO relevant.
+doc_009,Gateway_Walks_Complaints_Procedure_Participants_v06.docx,docx,Complaints Procedure for Participants,governance,complaints,procedure,repository,,false,true,true,Lyle Gateway document — anonymise to Strathaven Community Trust
+doc_010,Lyle Gateway - Gift Register.xlsx,xlsx,Gift Register,financial_controls,gifts_and_hospitality,example,repository,,false,true,true,XLSX format — requires separate handling in ingestion pipeline. Anonymise to Strathaven Community Trust.
+doc_011,Lyle Gateway - Data-Protection-Policy.docx,docx,Data Protection Policy,data_protection,data_protection_policy,policy,repository,,false,true,true,Lyle Gateway document — anonymise to Strathaven Community Trust. ICO relevant.
+doc_012,Lyle Gateway - Reserves-policy.docx,docx,Reserves Policy,financial_controls,reserves,policy,repository,,false,true,true,Lyle Gateway document — anonymise to Strathaven Community Trust
+doc_013,Lyle Gateway - Trustee-induction-checklist.docx,docx,Trustee Induction Checklist,governance,trustee_induction,checklist,repository,,false,true,true,Lyle Gateway document — anonymise to Strathaven Community Trust
+doc_014,Lyle Gateway - Trustees-expenses policy.docx,docx,Trustee Expenses Policy,financial_controls,expenses,policy,repository,,false,true,true,Lyle Gateway document — anonymise to Strathaven Community Trust
+doc_015,Lyle Gateway Governance - Initial Review.pdf,pdf,Governance Initial Review,governance,governance_review,framework,repository,,false,true,true,Lyle Gateway document — anonymise to Strathaven Community Trust
+doc_016,Lyle Gateway IT and Web Initial Review.pdf,pdf,IT and Web Initial Review,data_protection,it_and_information_security,framework,repository,,false,true,true,Lyle Gateway document — anonymise to Strathaven Community Trust. ICO relevant.
+doc_017,Lyle Gateway SCIO - Constitution DRAFT v0.5.docx,docx,SCIO Constitution Draft,governance,constitutional_documents,framework,repository,,false,true,true,Lyle Gateway document — draft status — anonymise to Strathaven Community Trust
+doc_018,Lyle Gateway Values - draft.docx,docx,Organisational Values,governance,strategy_and_values,example,repository,,false,true,true,Lyle Gateway document — draft status — anonymise to Strathaven Community Trust
+doc_019,LyleGateway_EDI_Policy_v05.docx,docx,Equality Diversity and Inclusion Policy,governance,edi,policy,repository,,false,true,true,Lyle Gateway document — anonymise to Strathaven Community Trust
+doc_020,LyleGateway_Safeguarding_Policy_v0.5.docx,docx,Safeguarding Policy,safeguarding,safeguarding_policy,policy,repository,,false,true,true,Lyle Gateway document — anonymise to Strathaven Community Trust. Special category data likely.
+doc_021,LyleGateway_Volunteer_Safeguarding_Guide_v1_2.docx,docx,Volunteer Safeguarding Guide,safeguarding,volunteer_safeguarding,guidance,repository,,false,true,true,Lyle Gateway document — anonymise to Strathaven Community Trust
+doc_022,Lyle_Gateway_Acceptable_Use_Policy_v0.5.docx,docx,Acceptable Use Policy,data_protection,acceptable_use,policy,repository,,false,true,true,Lyle Gateway document — anonymise to Strathaven Community Trust. ICO relevant.
+doc_023,Lyle_Gateway_Complaints_Procedure_Volunteers_v06.docx,docx,Complaints Procedure for Volunteers,governance,complaints,procedure,repository,,false,true,true,Lyle Gateway document — anonymise to Strathaven Community Trust
+doc_024,Lyle_Gateway_Complaints_and_Challenging_Situations_Procedure_Internal.docx,docx,Internal Complaints and Challenging Situations Procedure,governance,complaints,procedure,repository,,false,true,true,Lyle Gateway document — anonymise to Strathaven Community Trust
+doc_025,Lyle_Gateway_Data_Breach_Procedure_v0.5.docx,docx,Data Breach Procedure,data_protection,data_breach,procedure,repository,,false,true,true,Lyle Gateway document — anonymise to Strathaven Community Trust. ICO relevant.
+doc_026,Lyle_Gateway_Document_Retention_Policy_v0.5.docx,docx,Document Retention Policy,data_protection,retention,policy,repository,,false,true,true,Lyle Gateway document — anonymise to Strathaven Community Trust. ICO relevant.
+doc_027,Lyle_Gateway_Information_Security_Procedure_v0.5.docx,docx,Information Security Procedure,data_protection,it_and_information_security,procedure,repository,,false,true,true,Lyle Gateway document — anonymise to Strathaven Community Trust. ICO relevant.
+doc_028,Lyle_Gateway_Privacy_Notice_v0.5.docx,docx,Privacy Notice,data_protection,privacy_notice,policy,repository,,false,true,true,Lyle Gateway document — anonymise to Strathaven Community Trust. ICO relevant.
+doc_029,Lyle_Gateway_SAR_Procedure_v0.5.docx,docx,Subject Access Request Procedure,data_protection,subject_access_requests,procedure,repository,,false,true,true,Lyle Gateway document — anonymise to Strathaven Community Trust. ICO relevant.
+doc_030,Lyle_Gateway_Trustee_and_Staff_Induction_Checklist_v0.5.docx,docx,Trustee and Staff Induction Checklist,governance,trustee_induction,checklist,repository,,false,true,true,Lyle Gateway document — anonymise to Strathaven Community Trust
+doc_031,Referral Policy (Disclosure Scotland) Version 1 2 Dec. 2025.docx,docx,Referral Policy for Disclosure Scotland,safeguarding,disclosure_scotland,policy,repository,,false,true,true,Lyle Gateway document — anonymise to Strathaven Community Trust. Regulated activity.
+doc_032,SG-Handbook-Chapter-1-2024-07-31.pdf,pdf,Scottish Government Handbook Chapter 1,governance,,guidance,other_regulator,,false,false,false,Scottish Government publication — no anonymisation required. Source authority is other_regulator not repository.
+doc_033,Safeguarding_Alignment_Note.docx,docx,Safeguarding Alignment Note,safeguarding,safeguarding_policy,guidance,repository,,false,true,true,Lyle Gateway document — check for named individuals — anonymise to Strathaven Community Trust
+doc_034,Secure Handling of Disclosure Information Policy (Lyle Gateway 2 December 2025 V1).docx,docx,Secure Handling of Disclosure Information Policy,safeguarding,disclosure_scotland,policy,repository,,false,true,true,Lyle Gateway document — anonymise to Strathaven Community Trust. Regulated activity. Special category data.
+doc_035,Volunteer Agreement draft and thoughts.docx,docx,Volunteer Agreement,volunteering,volunteer_agreements,template,repository,,false,true,true,Lyle Gateway document — draft status — anonymise to Strathaven Community Trust
+doc_036,Volunteer Policy drafts and thoughts.docx,docx,Volunteer Policy,volunteering,volunteer_management,policy,repository,,false,true,true,Lyle Gateway document — draft status — anonymise to Strathaven Community Trust
+doc_037,Volunteer_Welcome_Pack_Full.docx,docx,Volunteer Welcome Pack,volunteering,volunteer_induction,template,repository,,false,true,true,Lyle Gateway document — anonymise to Strathaven Community Trust
+doc_038,lyle Gateway - Gift Register Policy v1.0.docx,docx,Gift Register Policy,financial_controls,gifts_and_hospitality,policy,repository,,false,true,true,Lyle Gateway document — anonymise to Strathaven Community Trust
+doc_039,template-SCIO-constitution-two-tier-may2022.docx,docx,SCIO Constitution Template Two-Tier,governance,constitutional_documents,template,repository,,false,false,false,Generic OSCR template — no anonymisation required. Confirm source authority.
+doc_040,volunteer_safeguarding_guide.html,html,Volunteer Safeguarding Guide,safeguarding,volunteer_safeguarding,guidance,repository,,false,true,true,HTML format — single file confirmed. Check for named organisations before ingestion.
