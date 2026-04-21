@@ -1,0 +1,120 @@
+{
+  "schema_version": "0.1.0",
+  "last_updated": "2026-04-21",
+  "description": "Formal register of compliance areas not yet adequately represented in the document repository. This file is read by the system prompt to ensure Claude explicitly flags gaps rather than retrieving weak matches. Any query touching a registered gap area must trigger an explicit acknowledgement and signpost to appropriate external guidance.",
+  "gaps": [
+    {
+      "compliance_area": "employment",
+      "coverage_status": "gap",
+      "description": "Employment law obligations for Scottish charities — contracts of employment, disciplinary and grievance procedures, absence management, redundancy, TUPE where relevant. Applies to any charity with paid staff.",
+      "why_it_matters": "Any charity with paid staff has employment law obligations under UK-wide legislation regardless of size or income. Absence of this area from the repository means the system cannot support HR policy development.",
+      "relevant_legislation": [
+        "Employment Rights Act 1996",
+        "Equality Act 2010",
+        "National Minimum Wage Act 1998",
+        "Working Time Regulations 1998",
+        "ACAS Codes of Practice"
+      ],
+      "external_guidance": [
+        "ACAS — acas.org.uk",
+        "SCVO HR support — scvo.org/support",
+        "Citizens Advice Scotland"
+      ],
+      "priority": "high",
+      "notes": "Priority for next repository enhancement. Most Scottish charities with paid staff will need at minimum a disciplinary and grievance procedure and written contracts."
+    },
+    {
+      "compliance_area": "premises_health_safety",
+      "coverage_status": "gap",
+      "description": "Health and safety obligations for charities operating from premises or delivering activities in physical settings — H&S policy, risk assessments, fire safety, lone working, event safety.",
+      "why_it_matters": "Any charity with employees or that invites members of the public onto premises has legal H&S obligations. Particularly critical for charities delivering direct services.",
+      "relevant_legislation": [
+        "Health and Safety at Work etc. Act 1974",
+        "Management of Health and Safety at Work Regulations 1999",
+        "Regulatory Reform (Fire Safety) Order 2005",
+        "Reporting of Injuries, Diseases and Dangerous Occurrences Regulations 2013 (RIDDOR)"
+      ],
+      "external_guidance": [
+        "Health and Safety Executive — hse.gov.uk",
+        "SCVO — scvo.org/support",
+        "Scottish Fire and Rescue Service guidance"
+      ],
+      "priority": "high",
+      "notes": "Relevant to any charity with premises, staff, volunteers working on-site, or public-facing activities. Risk assessment templates are the most commonly needed output."
+    },
+    {
+      "compliance_area": "communications",
+      "coverage_status": "gap",
+      "description": "Social media policies, public communications standards, media handling procedures, brand and reputational risk management.",
+      "why_it_matters": "Reputational risk is significant for charities. OSCR expects charities to manage public trust. Social media misuse by trustees, staff or volunteers can create regulatory and legal exposure.",
+      "relevant_legislation": [
+        "Defamation Act 2013",
+        "UK GDPR — where communications involve personal data",
+        "Charities and Trustee Investment (Scotland) Act 2005 — public benefit and reputational obligations"
+      ],
+      "external_guidance": [
+        "OSCR guidance on charity governance",
+        "SCVO communications resources",
+        "Charity Commission for England and Wales guidance on social media (useful reference even outwith jurisdiction)"
+      ],
+      "priority": "medium",
+      "notes": "Lower immediate priority than employment and H&S but increasingly relevant as charities use social media for fundraising and campaigning."
+    },
+    {
+      "compliance_area": "fundraising",
+      "coverage_status": "partial",
+      "description": "Fundraising practice standards, donor management, gift aid administration, public collections, online fundraising compliance.",
+      "why_it_matters": "Fundraising is a primary income source for many Scottish charities. The Fundraising Regulator sets standards that apply UK-wide. Gift aid carries HMRC obligations.",
+      "relevant_legislation": [
+        "Charities and Trustee Investment (Scotland) Act 2005",
+        "Civic Government (Scotland) Act 1982 — street and public collections",
+        "UK GDPR — donor data management",
+        "Finance Act — Gift Aid"
+      ],
+      "external_guidance": [
+        "Fundraising Regulator — fundraisingregulator.org.uk",
+        "HMRC Gift Aid guidance",
+        "OSCR guidance on fundraising"
+      ],
+      "priority": "medium",
+      "notes": "Partial coverage exists. Priority is to add gift aid procedure templates and online fundraising compliance guidance."
+    },
+    {
+      "compliance_area": "volunteering",
+      "coverage_status": "partial",
+      "description": "Volunteer management frameworks, volunteer agreements, induction and training, expenses policies, volunteer boundaries and conduct.",
+      "why_it_matters": "Volunteers are central to the Scottish charity sector. Clear volunteer management reduces safeguarding risk, supports retention, and protects the organisation legally.",
+      "relevant_legislation": [
+        "There is no single piece of legislation governing volunteers in the UK",
+        "UK GDPR — volunteer data",
+        "Protection of Vulnerable Groups (Scotland) Act 2007 — where volunteers work with protected groups",
+        "Health and Safety at Work etc. Act 1974 — extends to volunteers in many circumstances"
+      ],
+      "external_guidance": [
+        "Volunteer Scotland — volunteerscotland.net",
+        "SCVO volunteering resources",
+        "OSCR guidance"
+      ],
+      "priority": "medium",
+      "notes": "Partial coverage exists. Most needed additions are volunteer agreement templates and expenses policy examples scaled to different organisational sizes."
+    },
+    {
+      "compliance_area": "grant_management",
+      "coverage_status": "partial",
+      "description": "Grant reporting obligations, funder compliance requirements, restricted fund management, grant conditions monitoring.",
+      "why_it_matters": "Grant income is the primary funding source for many Scottish charities. Failure to comply with grant conditions can result in clawback and reputational damage. Restricted fund management has specific accounting and governance implications.",
+      "relevant_legislation": [
+        "Charities and Trustee Investment (Scotland) Act 2005 — financial management obligations",
+        "Charities Accounts (Scotland) Regulations 2006"
+      ],
+      "external_guidance": [
+        "OSCR guidance on charity accounts and financial management",
+        "Scottish Government funding body guidance",
+        "National Lottery Community Fund compliance requirements"
+      ],
+      "priority": "low",
+      "notes": "Partial coverage exists focused on larger funders. Needs expansion to cover smaller grant makers and internal restricted fund management procedures."
+    }
+  ],
+  "gap_response_instruction": "When a user query relates to a compliance area registered as 'gap' or 'partial' in this file, Claude must: (1) explicitly acknowledge the limitation, (2) provide whatever general guidance is possible without fabricating specific compliance requirements, (3) direct the user to the listed external guidance sources, and (4) recommend independent professional advice where the area carries significant legal risk."
+}
