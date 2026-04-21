@@ -18,3 +18,10 @@
 **Summary:** Metadata schema v0.2.0 added to `docs/metadata-schema/`. Repository gaps register `repository_gaps.json` created and committed.  
 **Rationale:** Metadata schema is the foundational design decision for retrieval quality — all subsequent ingestion depends on it. Gap register ensures the system explicitly flags areas of weak or absent coverage rather than retrieving poor matches. Both documents reflect the project principle of transparency over false confidence.  
 **Dependencies or implications:** Schema v0.2.0 introduces three-field workforce model and dedicated ICO section — both must be applied consistently at ingestion. Gap register must be kept current as repository is enhanced. System prompt (Stage 3) must reference gap register at runtime.
+
+### [0.1.4] — 2026-04-21
+**Type:** Decision  
+**Author:** Project lead  
+**Summary:** ADR-001 created — RAG adopted as primary AI architecture, fine-tuning explicitly deferred.  
+**Rationale:** RAG makes knowledge gaps visible and outputs traceable to source documents. Both properties are essential for a compliance tool where silent errors are more dangerous than acknowledged limitations. Fine-tuning conceals gaps and removes traceability.  
+**Dependencies or implications:** Pinecone confirmed as vector store. Chunking strategy and metadata schema quality are now critical success factors. Retrieval quality testing (Stage 2) is a hard gate before interface development.
