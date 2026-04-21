@@ -11,3 +11,10 @@
 **Summary:** Full folder structure created and pushed to GitHub. `.env.example` created with all anticipated environment variables documented.  
 **Rationale:** Single-script folder creation ensures consistency and is repeatable. `.env.example` establishes the pattern of never committing secrets whilst documenting exactly what credentials the project requires.  
 **Dependencies or implications:** `.env` (with real values) must be added to `.gitignore` before any API keys are configured locally. Pinecone index name set as `charity-compliance` — change here and in code if renamed.
+
+### [0.1.3] — 2026-04-21
+**Type:** Schema  
+**Author:** Project lead  
+**Summary:** Metadata schema v0.2.0 added to `docs/metadata-schema/`. Repository gaps register `repository_gaps.json` created and committed.  
+**Rationale:** Metadata schema is the foundational design decision for retrieval quality — all subsequent ingestion depends on it. Gap register ensures the system explicitly flags areas of weak or absent coverage rather than retrieving poor matches. Both documents reflect the project principle of transparency over false confidence.  
+**Dependencies or implications:** Schema v0.2.0 introduces three-field workforce model and dedicated ICO section — both must be applied consistently at ingestion. Gap register must be kept current as repository is enhanced. System prompt (Stage 3) must reference gap register at runtime.
