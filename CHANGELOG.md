@@ -32,3 +32,10 @@
 **Summary:** ADR-002 and ADR-003 created. Streamlit adopted as POC frontend — explicitly time-bounded to POC stage. Microsoft Presidio adopted for anonymisation with mandatory human spot-check gate.  
 **Rationale:** Streamlit keeps frontend effort proportionate to POC goals. Presidio runs locally ensuring no sensitive data transmitted externally, with retain list support for authoritative entity names. Neither decision is permanent — both will be revisited at web application stage.  
 **Dependencies or implications:** Streamlit migration to production frontend requires its own ADR. Presidio retain list must be actively maintained. Curator spot-check is a hard gate enforced via metadata flag — not optional.
+
+### [0.1.6] — 2026-04-21
+**Type:** Decision  
+**Author:** Project lead  
+**Summary:** Document inventory created with 38 documents. doc_005 (Council Meeting Agenda and Minutes) and doc_006 (Council Office Bearers and Lead Roles) intentionally excluded.  
+**Rationale:** Both excluded documents contain named individuals. Risk of incomplete anonymisation considered too high given sensitivity of meeting minutes and named role holders. Exclusion is the proportionate decision. Doc IDs 005 and 006 are retired and will not be reused.  
+**Dependencies or implications:** Repository contains 38 documents across two source organisations — EPS (anonymised to Caledonian Arts Forum) and Lyle Gateway (anonymised to Strathaven Community Trust). XLSX and HTML formats flagged for special handling in ingestion pipeline. doc_032 and doc_039 require no anonymisation. Inventory to be reviewed and page counts added in next session.
