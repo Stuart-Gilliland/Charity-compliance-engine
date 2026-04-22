@@ -46,3 +46,10 @@
 **Summary:** Document inventory updated. doc_001 excluded (91 pages, not critical). doc_032 corrected — Church of Scotland Safeguarding Handbook not Scottish Government. Two attribution columns added: attribution_required and attribution_text. Source authority controlled list extended with faith_organisation and legal_publisher.  
 **Rationale:** doc_001 would chunk poorly and add noise at 91 pages. Church of Scotland correction materially changes tagging and retrieval context. Attribution fields address the overnight concern about third-party content — Burness Paull templates and Church of Scotland materials require attribution wherever referenced. This is a non-negotiable requirement regardless of how content is used.  
 **Dependencies or implications:** Metadata schema v0.2.0 needs a minor update to reflect new source_authority values and attribution fields — will be addressed in v0.3.0 alongside chunking strategy decisions. System prompt must reference attribution_required flag and include attribution_text in any output that draws on attributed documents. Repository now contains 37 documents for ingestion.
+
+### [0.1.8] — 2026-04-22
+**Type:** Decision  
+**Author:** Project lead  
+**Summary:** ADR-004 created — structure-aware chunking adopted as primary strategy. Target chunk size 400 tokens, maximum 600, minimum 100, overlap 50. Special handling defined for XLSX and HTML formats. Fixed-size fallback for oversized sections.  
+**Rationale:** Repository documents are well-structured with explicit headings and numbered sections. Structure-aware chunking respects that organisation, producing coherent retrievable chunks. Fixed-size chunking would split across clause boundaries, damaging retrieval quality for compliance queries.  
+**Dependencies or implications:** python-docx, pdfplumber, BeautifulSoup, openpyxl added as ingestion dependencies. Chunk parameters are initial values subject to tuning in Stage 2. doc_020, doc_004, and doc_017 flagged as highest risk for chunking quality — priority review items. Chunk preview script required alongside chunking script before any Pinecone ingestion.
