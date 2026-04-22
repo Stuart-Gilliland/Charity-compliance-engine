@@ -39,3 +39,10 @@
 **Summary:** Document inventory created with 38 documents. doc_005 (Council Meeting Agenda and Minutes) and doc_006 (Council Office Bearers and Lead Roles) intentionally excluded.  
 **Rationale:** Both excluded documents contain named individuals. Risk of incomplete anonymisation considered too high given sensitivity of meeting minutes and named role holders. Exclusion is the proportionate decision. Doc IDs 005 and 006 are retired and will not be reused.  
 **Dependencies or implications:** Repository contains 38 documents across two source organisations — EPS (anonymised to Caledonian Arts Forum) and Lyle Gateway (anonymised to Strathaven Community Trust). XLSX and HTML formats flagged for special handling in ingestion pipeline. doc_032 and doc_039 require no anonymisation. Inventory to be reviewed and page counts added in next session.
+
+### [0.1.7] — 2026-04-22
+**Type:** Schema + Decision  
+**Author:** Project lead  
+**Summary:** Document inventory updated. doc_001 excluded (91 pages, not critical). doc_032 corrected — Church of Scotland Safeguarding Handbook not Scottish Government. Two attribution columns added: attribution_required and attribution_text. Source authority controlled list extended with faith_organisation and legal_publisher.  
+**Rationale:** doc_001 would chunk poorly and add noise at 91 pages. Church of Scotland correction materially changes tagging and retrieval context. Attribution fields address the overnight concern about third-party content — Burness Paull templates and Church of Scotland materials require attribution wherever referenced. This is a non-negotiable requirement regardless of how content is used.  
+**Dependencies or implications:** Metadata schema v0.2.0 needs a minor update to reflect new source_authority values and attribution fields — will be addressed in v0.3.0 alongside chunking strategy decisions. System prompt must reference attribution_required flag and include attribution_text in any output that draws on attributed documents. Repository now contains 37 documents for ingestion.
