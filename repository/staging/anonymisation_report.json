@@ -1,0 +1,218 @@
+[
+  {
+    "filename": "EPS AGM 2026 - Agenda.docx",
+    "status": "success",
+    "output_file": "C:\\Users\\StuartGilliland\\Projects\\charity-compliance-engine\\repository\\staging\\EPS AGM 2026 - Agenda_anonymised.txt",
+    "issues": []
+  },
+  {
+    "filename": "EPS Appropriate Behaviour Policy v1.2 20250921.docx",
+    "status": "success",
+    "output_file": "C:\\Users\\StuartGilliland\\Projects\\charity-compliance-engine\\repository\\staging\\EPS Appropriate Behaviour Policy v1.2 20250921_anonymised.txt",
+    "issues": []
+  },
+  {
+    "filename": "EPS Constitution 2026 v2.1.docx",
+    "status": "success",
+    "output_file": "C:\\Users\\StuartGilliland\\Projects\\charity-compliance-engine\\repository\\staging\\EPS Constitution 2026 v2.1_anonymised.txt",
+    "issues": []
+  },
+  {
+    "filename": "EPS Data Protection Policy - 2026 V2.2.docx",
+    "status": "success",
+    "output_file": "C:\\Users\\StuartGilliland\\Projects\\charity-compliance-engine\\repository\\staging\\EPS Data Protection Policy - 2026 V2.2_anonymised.txt",
+    "issues": []
+  },
+  {
+    "filename": "EPS Privacy Notice - 2026 V2.2.docx",
+    "status": "success",
+    "output_file": "C:\\Users\\StuartGilliland\\Projects\\charity-compliance-engine\\repository\\staging\\EPS Privacy Notice - 2026 V2.2_anonymised.txt",
+    "issues": []
+  },
+  {
+    "filename": "Gateway_Walks_Complaints_Procedure_Participants_v06.docx",
+    "status": "success",
+    "output_file": "C:\\Users\\StuartGilliland\\Projects\\charity-compliance-engine\\repository\\staging\\Gateway_Walks_Complaints_Procedure_Participants_v06_anonymised.txt",
+    "issues": []
+  },
+  {
+    "filename": "Lyle Gateway - Data-Protection-Policy.docx",
+    "status": "success",
+    "output_file": "C:\\Users\\StuartGilliland\\Projects\\charity-compliance-engine\\repository\\staging\\Lyle Gateway - Data-Protection-Policy_anonymised.txt",
+    "issues": []
+  },
+  {
+    "filename": "lyle Gateway - Gift Register Policy v1.0.docx",
+    "status": "success",
+    "output_file": "C:\\Users\\StuartGilliland\\Projects\\charity-compliance-engine\\repository\\staging\\lyle Gateway - Gift Register Policy v1.0_anonymised.txt",
+    "issues": []
+  },
+  {
+    "filename": "Lyle Gateway - Reserves-policy.docx",
+    "status": "success",
+    "output_file": "C:\\Users\\StuartGilliland\\Projects\\charity-compliance-engine\\repository\\staging\\Lyle Gateway - Reserves-policy_anonymised.txt",
+    "issues": []
+  },
+  {
+    "filename": "Lyle Gateway - Trustee-induction-checklist.docx",
+    "status": "success",
+    "output_file": "C:\\Users\\StuartGilliland\\Projects\\charity-compliance-engine\\repository\\staging\\Lyle Gateway - Trustee-induction-checklist_anonymised.txt",
+    "issues": []
+  },
+  {
+    "filename": "Lyle Gateway - Trustees-expenses policy.docx",
+    "status": "success",
+    "output_file": "C:\\Users\\StuartGilliland\\Projects\\charity-compliance-engine\\repository\\staging\\Lyle Gateway - Trustees-expenses policy_anonymised.txt",
+    "issues": []
+  },
+  {
+    "filename": "Lyle Gateway Governance - Initial Review.pdf",
+    "status": "success",
+    "output_file": "C:\\Users\\StuartGilliland\\Projects\\charity-compliance-engine\\repository\\staging\\Lyle Gateway Governance - Initial Review_anonymised.txt",
+    "issues": []
+  },
+  {
+    "filename": "Lyle Gateway IT and Web Initial Review.pdf",
+    "status": "success",
+    "output_file": "C:\\Users\\StuartGilliland\\Projects\\charity-compliance-engine\\repository\\staging\\Lyle Gateway IT and Web Initial Review_anonymised.txt",
+    "issues": []
+  },
+  {
+    "filename": "Lyle Gateway SCIO - Constitution DRAFT v0.5.docx",
+    "status": "success",
+    "output_file": "C:\\Users\\StuartGilliland\\Projects\\charity-compliance-engine\\repository\\staging\\Lyle Gateway SCIO - Constitution DRAFT v0.5_anonymised.txt",
+    "issues": []
+  },
+  {
+    "filename": "Lyle Gateway Values - draft.docx",
+    "status": "success",
+    "output_file": "C:\\Users\\StuartGilliland\\Projects\\charity-compliance-engine\\repository\\staging\\Lyle Gateway Values - draft_anonymised.txt",
+    "issues": []
+  },
+  {
+    "filename": "Lyle_Gateway_Acceptable_Use_Policy_v0.5.docx",
+    "status": "success",
+    "output_file": "C:\\Users\\StuartGilliland\\Projects\\charity-compliance-engine\\repository\\staging\\Lyle_Gateway_Acceptable_Use_Policy_v0.5_anonymised.txt",
+    "issues": []
+  },
+  {
+    "filename": "Lyle_Gateway_Complaints_and_Challenging_Situations_Procedure_Internal.docx",
+    "status": "success",
+    "output_file": "C:\\Users\\StuartGilliland\\Projects\\charity-compliance-engine\\repository\\staging\\Lyle_Gateway_Complaints_and_Challenging_Situations_Procedure_Internal_anonymised.txt",
+    "issues": []
+  },
+  {
+    "filename": "Lyle_Gateway_Complaints_Procedure_Volunteers_v06.docx",
+    "status": "success",
+    "output_file": "C:\\Users\\StuartGilliland\\Projects\\charity-compliance-engine\\repository\\staging\\Lyle_Gateway_Complaints_Procedure_Volunteers_v06_anonymised.txt",
+    "issues": []
+  },
+  {
+    "filename": "Lyle_Gateway_Data_Breach_Procedure_v0.5.docx",
+    "status": "success",
+    "output_file": "C:\\Users\\StuartGilliland\\Projects\\charity-compliance-engine\\repository\\staging\\Lyle_Gateway_Data_Breach_Procedure_v0.5_anonymised.txt",
+    "issues": []
+  },
+  {
+    "filename": "Lyle_Gateway_Document_Retention_Policy_v0.5.docx",
+    "status": "success",
+    "output_file": "C:\\Users\\StuartGilliland\\Projects\\charity-compliance-engine\\repository\\staging\\Lyle_Gateway_Document_Retention_Policy_v0.5_anonymised.txt",
+    "issues": []
+  },
+  {
+    "filename": "Lyle_Gateway_Information_Security_Procedure_v0.5.docx",
+    "status": "success",
+    "output_file": "C:\\Users\\StuartGilliland\\Projects\\charity-compliance-engine\\repository\\staging\\Lyle_Gateway_Information_Security_Procedure_v0.5_anonymised.txt",
+    "issues": []
+  },
+  {
+    "filename": "Lyle_Gateway_Privacy_Notice_v0.5.docx",
+    "status": "success",
+    "output_file": "C:\\Users\\StuartGilliland\\Projects\\charity-compliance-engine\\repository\\staging\\Lyle_Gateway_Privacy_Notice_v0.5_anonymised.txt",
+    "issues": []
+  },
+  {
+    "filename": "Lyle_Gateway_SAR_Procedure_v0.5.docx",
+    "status": "success",
+    "output_file": "C:\\Users\\StuartGilliland\\Projects\\charity-compliance-engine\\repository\\staging\\Lyle_Gateway_SAR_Procedure_v0.5_anonymised.txt",
+    "issues": []
+  },
+  {
+    "filename": "Lyle_Gateway_Trustee_and_Staff_Induction_Checklist_v0.5.docx",
+    "status": "success",
+    "output_file": "C:\\Users\\StuartGilliland\\Projects\\charity-compliance-engine\\repository\\staging\\Lyle_Gateway_Trustee_and_Staff_Induction_Checklist_v0.5_anonymised.txt",
+    "issues": []
+  },
+  {
+    "filename": "LyleGateway_EDI_Policy_v05.docx",
+    "status": "success",
+    "output_file": "C:\\Users\\StuartGilliland\\Projects\\charity-compliance-engine\\repository\\staging\\LyleGateway_EDI_Policy_v05_anonymised.txt",
+    "issues": []
+  },
+  {
+    "filename": "LyleGateway_Safeguarding_Policy_v0.5.docx",
+    "status": "success",
+    "output_file": "C:\\Users\\StuartGilliland\\Projects\\charity-compliance-engine\\repository\\staging\\LyleGateway_Safeguarding_Policy_v0.5_anonymised.txt",
+    "issues": []
+  },
+  {
+    "filename": "LyleGateway_Volunteer_Safeguarding_Guide_v1_2.docx",
+    "status": "success",
+    "output_file": "C:\\Users\\StuartGilliland\\Projects\\charity-compliance-engine\\repository\\staging\\LyleGateway_Volunteer_Safeguarding_Guide_v1_2_anonymised.txt",
+    "issues": []
+  },
+  {
+    "filename": "Referral Policy (Disclosure Scotland) Version 1 2 Dec. 2025.docx",
+    "status": "success",
+    "output_file": "C:\\Users\\StuartGilliland\\Projects\\charity-compliance-engine\\repository\\staging\\Referral Policy (Disclosure Scotland) Version 1 2 Dec. 2025_anonymised.txt",
+    "issues": []
+  },
+  {
+    "filename": "Safeguarding_Alignment_Note.docx",
+    "status": "success",
+    "output_file": "C:\\Users\\StuartGilliland\\Projects\\charity-compliance-engine\\repository\\staging\\Safeguarding_Alignment_Note_anonymised.txt",
+    "issues": []
+  },
+  {
+    "filename": "Secure Handling of Disclosure Information Policy (Lyle Gateway, 2 December 2025, V1).docx",
+    "status": "success",
+    "output_file": "C:\\Users\\StuartGilliland\\Projects\\charity-compliance-engine\\repository\\staging\\Secure Handling of Disclosure Information Policy (Lyle Gateway, 2 December 2025, V1)_anonymised.txt",
+    "issues": []
+  },
+  {
+    "filename": "SG-Handbook-Chapter-1-2024-07-31.pdf",
+    "status": "success",
+    "output_file": "C:\\Users\\StuartGilliland\\Projects\\charity-compliance-engine\\repository\\staging\\SG-Handbook-Chapter-1-2024-07-31_anonymised.txt",
+    "issues": []
+  },
+  {
+    "filename": "template-SCIO-constitution-two-tier-may2022.docx",
+    "status": "success",
+    "output_file": "C:\\Users\\StuartGilliland\\Projects\\charity-compliance-engine\\repository\\staging\\template-SCIO-constitution-two-tier-may2022_anonymised.txt",
+    "issues": []
+  },
+  {
+    "filename": "Volunteer Agreement draft and thoughts.docx",
+    "status": "success",
+    "output_file": "C:\\Users\\StuartGilliland\\Projects\\charity-compliance-engine\\repository\\staging\\Volunteer Agreement draft and thoughts_anonymised.txt",
+    "issues": []
+  },
+  {
+    "filename": "Volunteer Policy drafts and thoughts.docx",
+    "status": "success",
+    "output_file": "C:\\Users\\StuartGilliland\\Projects\\charity-compliance-engine\\repository\\staging\\Volunteer Policy drafts and thoughts_anonymised.txt",
+    "issues": []
+  },
+  {
+    "filename": "volunteer_safeguarding_guide.html",
+    "status": "success",
+    "output_file": "C:\\Users\\StuartGilliland\\Projects\\charity-compliance-engine\\repository\\staging\\volunteer_safeguarding_guide_anonymised.txt",
+    "issues": []
+  },
+  {
+    "filename": "Volunteer_Welcome_Pack_Full.docx",
+    "status": "success",
+    "output_file": "C:\\Users\\StuartGilliland\\Projects\\charity-compliance-engine\\repository\\staging\\Volunteer_Welcome_Pack_Full_anonymised.txt",
+    "issues": []
+  }
+]
