@@ -67,3 +67,10 @@
 **Summary:** Anonymisation pipeline tested and validated on two documents. Three issues identified and resolved — combined organisation name replacement, underscore-format name redaction, and partial email pattern redaction. Pipeline confirmed clean on both a simple policy and a document containing named individuals and email fragments.  
 **Rationale:** Testing against a document with real edge cases (named individual in non-standard format, partial email addresses) validated that the pipeline handles real-world content correctly. All identified issues resolved before running full pipeline across all 37 documents.  
 **Dependencies or implications:** Pipeline ready for full run across source-documents/. XLSX (doc_010) still requires separate handling. Human curator review of all outputs remains mandatory before promotion to repository/approved/.
+
+### [0.2.1] — 2026-04-22
+**Type:** Build  
+**Author:** Project lead  
+**Summary:** Full anonymisation pipeline run completed — 36 of 37 documents processed successfully, 0 errors. Anonymised outputs written to repository/staging/. XLSX gift register (doc_010) not processed — requires separate handling as confirmed in ADR-004.  
+**Rationale:** First full pipeline run validates that the anonymisation approach works across all supported formats (DOCX, PDF, HTML) and document types in the repository.  
+**Dependencies or implications:** All 36 outputs require human curator review before promotion to repository/approved/. Curator review is the next step before chunking and embedding can begin. XLSX handling to be addressed separately.
