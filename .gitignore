@@ -208,3 +208,6 @@ __marimo__/
 
 # Source documents — never commit to repository
 source-documents/
+
+# Anonymisation test output
+ingestion/anonymise/test_output/
