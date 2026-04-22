@@ -53,3 +53,10 @@
 **Summary:** ADR-004 created — structure-aware chunking adopted as primary strategy. Target chunk size 400 tokens, maximum 600, minimum 100, overlap 50. Special handling defined for XLSX and HTML formats. Fixed-size fallback for oversized sections.  
 **Rationale:** Repository documents are well-structured with explicit headings and numbered sections. Structure-aware chunking respects that organisation, producing coherent retrievable chunks. Fixed-size chunking would split across clause boundaries, damaging retrieval quality for compliance queries.  
 **Dependencies or implications:** python-docx, pdfplumber, BeautifulSoup, openpyxl added as ingestion dependencies. Chunk parameters are initial values subject to tuning in Stage 2. doc_020, doc_004, and doc_017 flagged as highest risk for chunking quality — priority review items. Chunk preview script required alongside chunking script before any Pinecone ingestion.
+
+### [0.1.9] — 2026-04-22
+**Type:** Build  
+**Author:** Project lead  
+**Summary:** Anonymisation script v0.1.0 added to `ingestion/anonymise/`. Presidio pipeline with retain list, replacement map, and format handlers for DOCX, PDF, and HTML. Outputs written to `repository/staging/` as plain text files with anonymisation report.  
+**Rationale:** First working code in the project. Anonymisation is the mandatory first step before any document enters the repository. Script includes retain list covering all authoritative sources and legislation, and replacement map converting real organisation names to fictional equivalents for readability.  
+**Dependencies or implications:** XLSX files (doc_010) not handled by this script — require separate processing. All outputs require human curator review before promotion to repository/approved/. Script must be run from project root with venv active.
