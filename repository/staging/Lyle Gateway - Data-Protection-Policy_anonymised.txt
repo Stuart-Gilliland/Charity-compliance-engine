@@ -1,0 +1,159 @@
+Data Protection Policy
+
+Introduction:
+
+Strathaven Community Trust is a SCIO, Registration Number: SC044468, [PERSON], 31 Union Street, Greenock, PA16 8DD and is registered as a Data processor with the Information Commissioners Office (ICO) [ZC088922].
+
+This policy applies to all trustees, employees, and volunteers of Strathaven Community Trust and covers our commitment to meeting our requirements to protect personal data under the Data Protection Act 2018 (also known as the UK GDPR) and the General Data Protection Regulation (GDPR).
+
+“Personal data” means any information relating to an identified or identifiable living individual
+
+Principles of Data Protection
+
+Strathaven Community Trust will ensure that all personal data that it holds will be:
+
+processed lawfully, fairly and in a transparent manner;
+
+collected for specified, explicit and legitimate purposes and not further processed in a manner that is incompatible with those purposes (purpose limitation)
+
+adequate, relevant and limited to what is necessary (data minimisation)
+
+accurate and kept up to date (data accuracy)
+
+kept in a form which permits identification of data subjects for no longer than is necessary (storage limitation)
+
+processed in a manner that ensures appropriate security of the personal data, including protection against accidental or unauthorised access to, or destruction, loss, use, modification, or disclosure of personal data (integrity and confidentiality)
+
+Lawful, fair and transparency
+
+To ensure processing of data is lawful, fair and transparent, Strathaven Community Trust shall keep and maintain Data Audits to record where and why we process personal data. The Data Audits will be kept up to date and fully reviewed every year.
+
+The Data Audits will record our lawful bases (our reason) for processing any personal data, this must be one of the following as required by legislation:
+
+consent
+
+contract,
+
+legal obligation,
+
+vital interests,
+
+public task
+
+legitimate interests
+
+The way in which we process personal data is detailed within our privacy notices, which are all freely on our website [https:/lylegateway.org.uk]. Our privacy notices will be kept up to date and fully reviewed every year.
+
+Strathaven Community Trust is fully committed to meeting the data protection principle of lawfulness, fairness and transparency.
+
+Purpose limitation
+
+Strathaven Community Trust will be clear about what our purposes for processing data are from the start. We will record these purposes in our Data Audits and include details in our public privacy notices.
+
+We will not use the personal data for any other purpose unless this is compatible with our original purpose, we get consent, or we have a clear obligation or function set out in law.
+
+Data minimisation
+
+We will make sure that the personal data we are processing is:
+
+adequate – sufficient to properly fulfil our stated purpose;
+
+relevant – has a rational link to that purpose; and
+
+limited to what is necessary – we do not hold more than we need for that purpose.
+
+Data accuracy
+
+Strathaven Community Trust will take all reasonable steps to ensure the personal data we hold is not incorrect or misleading as to any matter of fact.
+
+We may need to keep the personal data updated, although this will depend on what we are using it for.
+
+If we discover that personal data is incorrect or misleading, we will take reasonable steps to correct or erase it as soon as possible.
+
+Storage limitation
+
+Strathaven Community Trust will not keep personal data for longer than we need it.
+
+How long we keep personal data will depend on our purposes for holding the data. We have a separate document retention policy which records how long we keep personal data for and how it will be erased, anonymised, or removed from our systems.
+
+We may keep personal data for longer for public interest archiving, scientific or historical research, or for statistical purposes.
+
+Integrity and confidentiality
+
+Strathaven Community Trust takes the security of personal data extremely seriously. We do this in a variety of technical and organisational security measures, including but not limited to:
+
+regular data protection and cyber security training for trustees, staff and volunteers
+
+our IT security policy covers technical measures such as passwords, two factor authentication, encryption, clarity on which systems must be used
+
+a named Data Protection Officer (DPO) to provide advice, support, training, resources, and updates on all aspects of Data Protection. Our DPO is [PERSON] – Trustee/Secretary; [EMAIL]
+
+Our security measures are regularly updated, tested and reviewed to make sure that we keep personal data secure and confidential.
+
+Rights of individuals
+
+Individuals have the right to access their personal data and any such requests made to Strathaven Community Trust shall be dealt with in line with legal requirements, with some limited exceptions.
+
+The UK GDPR provides the following rights for individuals in relation to their personal data:
+
+the right to be informed – we do this by making sure our privacy notices are correct and up to date and direct individuals to these notices on our website.
+
+the right to access their own data – any subject access requests must be notified to our Data Protection Officer (DPO) who will co-ordinate a full search all of our systems before responding to the individual within 30 days, as required by law.
+
+rectification – we will quickly update any personal data which has been identified as inaccurate or incorrect.
+
+erasure – we will remove any personal data if an individual request this, unless we have another lawful bases which would prevent this e.g. we cannot delete employee records as we need to keep these to comply with other legislation
+
+to restrict processing - where there is a dispute about the accuracy, validity or legality of personal data held by us, an individual has the right to require us to cease processing the data for a reasonable period of time to allow the dispute to be resolved.
+
+the right to data portability - we will provide an individual with their data in a common and machine-readable electronic format.
+
+the right to object – complaints or objections to processing personal data will be dealt with quickly and accurately.
+
+rights in relation to automated decision making and profiling – we do not carry out any automated decision making or profiling of any individual.
+
+Data breach
+
+A personal data breach means a breach of security leading to the accidental or unlawful destruction, loss, alteration, unauthorised disclosure of, or access to, personal data.
+
+All trustees, staff and volunteers must be able to identify a suspected personal data breach. A breach could include:
+
+•	access by an unauthorised third party to personal data;
+
+•	deliberate or accidental action (or inaction);
+
+•	sending personal data to an incorrect recipient;
+
+•	computing devices containing personal data being lost or stolen;
+
+•	alteration of personal data without permission; and
+
+•	loss of availability of personal data.
+
+•	leaving a file on a train.
+
+Where a member of staff discovers or suspects a personal data breach, this should be reported to the DPO as soon as possible.
+
+Where there is a likely risk to individuals’ rights and freedoms, the DPO will report the personal data breach to the ICO within 72 hours of Strathaven Community Trust being aware of the breach.
+
+Where there is also a likely high risk to individuals’ rights and freedoms, we will inform those individuals without undue delay.
+
+The DPO will keep a record of all personal data breaches reported and follow up with appropriate measures and improvements to reduce the risk of reoccurrence. See the associated Strathaven Community Trust Data Breach Procedure document for further advice and direction.
+
+Privacy by design
+
+Privacy by design is an approach that promotes privacy and data protection compliance from the beginning.
+
+When relevant, and when it does not have a negative impact on an individual, privacy settings will be set to the most private by default.
+
+Trustees, Staff and volunteers must become familiar with this policy and include privacy and good data protection practices as core within any new project design or any material change to an existing project/work.
+
+Contact
+
+If you have any questions, concerns or need help or advice about any aspect of Data Protection, contact:
+
+Data Protection Officer
+[PERSON] – Trustee / Secretary
+[PERSON]: [EMAIL]
+
+Version Control

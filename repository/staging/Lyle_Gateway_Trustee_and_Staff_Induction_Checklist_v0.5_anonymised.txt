@@ -1,0 +1,55 @@
+Trustee and Staff
+
+Induction Checklist
+
+Introduction
+
+This one-page checklist is designed to help trustees, staff, and volunteers understand the key governance and data protection documents used by Strathaven Community Trust, how they relate to each other, and what is expected of them in practice.
+
+How the documents fit together
+
+Strathaven Community Trust’s information governance framework is structured so that high-level commitments are supported by clear, practical procedures. Not everyone needs to read every document in detail, but everyone needs to understand where they fit and which documents apply to their role.
+
+Please confirm you understand the purpose of each of the following documents:
+
+☐ Constitution: Sets out why Strathaven Community Trust exists, how it is governed, and the legal responsibilities of trustees.
+
+☐ Data Protection Policy: Explains Strathaven Community Trust’s internal commitments to complying with UK GDPR, including lawful bases, roles, and responsibilities.
+
+☐ Privacy Notice: Explains to the public how Strathaven Community Trust uses personal data and must reflect what we do in practice.
+
+☐ Information Security Procedure: Describes how information and personal data are protected day to day, including systems, access controls, devices, and user behaviour.
+
+☐ Acceptable Use and IT Guidance: Sets clear expectations for how charity systems, accounts, and equipment must be used for charity business only.
+
+☐ Document Retention Policy: Explains how long different types of information are kept and how they are securely disposed of.
+
+☐ Data Breach Procedure: Explains what to do if personal data is lost, disclosed, or accessed incorrectly, including who to report incidents to and when.
+
+☐ Subject Access Request (SAR) Procedure: Explains how requests for access to personal data are recognised and handled, and why these must be passed immediately to the Data Protection Officer.
+
+What is expected of you
+
+• Use Strathaven Community Trust systems and devices securely and for charity purposes only.
+
+• Access and handle personal data only where you have a legitimate need to do so.
+
+• Store charity information in approved systems (Microsoft 365) and avoid local storage.
+
+• Report any suspected data breach, loss, or mistake immediately to the Data Protection Officer.
+
+• Ask for advice if you are unsure rather than guessing.
+
+Acknowledgement
+
+I confirm that I have been introduced to the above documents, understand how they fit together, and understand my responsibilities when handling information and personal data on behalf of Strathaven Community Trust.
+
+Name: ________________________________
+
+Role: _________________________________
+
+Signature: ____________________________
+
+Date: _________________________________
+
+Version Control

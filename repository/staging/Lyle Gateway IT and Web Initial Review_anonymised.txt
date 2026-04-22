@@ -1,0 +1,142 @@
+10 Home Farm Steadings
+Blackridge
+Bathgate
+EH48 3SG
+Scotland
+Registration number: SC837413
+Strathaven Community Trust
+IT and Web – Initial Review
+PREPARED FOR:
+Strathaven Community Trust (SCIO)
+[PERSON]
+[PERSON]
+31 Union Street
+Greenock
+PA16 8DD
+PREPARED BY:
+[PERSON]
+Email: [EMAIL]
+Mobile: 07826 581772
+Date: 16 January 2026
+
+Microsoft 365 licensing, website hosting, and forward planning
+Current position
+The charity currently operates with a mix of paid and donated digital services.
+Productivity tools
+The charity uses Microsoft 365 Business Premium (Nonprofit Sta(cid:431) Pricing). Up to 10 licences
+are provided free of charge under Microsoft’s nonprofit donation scheme, with three currently in
+use. The current subscription runs until 27 June 2026 and remains free for its full term, with no
+charges due before that date.
+Business Premium was originally o(cid:431)ered because it provided stronger security and safer default
+settings at no cost. For a small charity, this has been a sensible and low-maintenance choice
+that supports good governance, data protection, and continuity as trustees and administrators
+change.
+The service is only being used today for MS Forms, OneDrive (personal folders), not email.
+Email, Website and domain
+The website is currently hosted with Wix under a paid plan, costing approximately £97 per year
+when averaged across the current two-year term. The existing domain name is renewed
+annually at a cost of £20.40 and the incredibly expensive email service for £242 per year.
+Total current annual cost (approximate)
+ Website hosting: £97
+ Domain: £20
+ Email (via Wix using Google Workspace) for 3 accounts: £242
+ Overall cost: around £360 per year.
+Change in Microsoft’s nonprofit licensing
+Microsoft announced the withdrawal of free Business Premium licences for nonprofits from
+June 2025. It is important to note that:
+ The charity is not a(cid:431)ected during the current subscription period
+ Existing donated licences remain free until 27 June 2026
+ There is no mid-term change and no automatic charging before that date
+What happens after June 2026 will depend on Microsoft’s nonprofit policy at that time –
+currently a paid model is in place, albeit at a discounted rate.
+2 | Page
+
+Target operating model
+The proposed target model simplifies services, reduces cost, and provides clear choices for
+trustees.
+Website hosting
+Move the website to Krystal’s charity hosting programme, which is provided free of charge. The
+existing website has not been developed to any great extent, so the amount of work required to
+establish a site on Wix or Krystal and its WordPress o(cid:431)ering are the same in terms of e(cid:431)ort
+required.
+ Annual hosting cost: £0.
+Domain
+Register a new charity-aligned domain, lylegateway.org.uk, for five years at a total cost of £50.
+As the [URL] domain has had little or no exposure other than email addresses I
+propose to retire the domain and reset all services on the new domain.
+ Equivalent to £10 per year.
+Email and productivity tools
+Email and o(cid:431)ice tools to be provided through Microsoft 365. However, there is an important
+constraint: the charity cannot mix Business Basic and Business Premium licences. All users
+must be on the same plan.
+This gives two clear and mutually exclusive options.
+Option A: Microsoft 365 Business Basic (all users)
+This option remains free for eligible charities (up to 300 licenses available).
+It includes email, calendars, Teams, file storage (SharePoint and OneDrive), and web-based
+versions of Word, Excel, PowerPoint, and [PERSON] and other tools such as Forms.
+Security is more limited than Business Premium, but still appropriate for many small charities
+whose needs are mainly email and document access.
+Annual operating cost under this option:
+[PERSON] Website hosting: £0
+ Domain: £10
+[PERSON] and tools: £0
+ Total ongoing cost: approximately £10 per year.
+This represents a substantial reduction in ongoing costs compared to the current arrangement.
+3 | Page
+
+Option B: Microsoft 365 Business Premium (all users)
+This option would apply if Microsoft no longer donates Business Premium licences after June
+2026 and trustees decide the additional security and desktop applications remain necessary.
+Cost would move to discounted nonprofit pricing, currently around £5 per user per month. This
+discounted rate is significantly lower than the full commercial price of circa £20 per user per
+month.
+Illustrative example
+If the charity had 5 users:
+ £5 × 5 users × 12 months = £300 per year.
+Annual operating cost under this option
+ Website hosting: £0
+ Domain: £10
+[PERSON] and tools: ~£300
+ Total ongoing cost: approximately £310 per year.
+This remains broadly comparable to, and slightly lower than, current costs, while providing
+stronger security and full desktop applications for all users.
+System Governance and forward planning
+Regardless of which option is chosen in future, it remains important to:
+ Restrict MS 365 Business Global Administrator access to a very small number of trusted
+individuals
+ Use lower-level admin roles for routine tasks
+ Review licensing and costs well in advance of renewal dates
+Over the coming months, and ahead of June 2026, trustees will be asked to:
+ Review Microsoft’s nonprofit licensing position at that time
+ Decide whether to continue with Business Premium on discounted pricing if required
+ Confirm that Business Basic remains a viable no-cost fallback if a(cid:431)ordability becomes a
+concern
+This approach ensures continuity of service, predictable costs, and the ability to balance
+security, functionality, and value in a planned and proportionate way.
+4 | Page
+
+In summary
+The charity’s current IT and web arrangements are functional but fragmented and more
+expensive than they need to be, particularly in relation to email. Importantly, there is no
+immediate risk or urgency. Microsoft 365 Business Premium remains fully funded and in place
+until June 2026, and the website (whilst underdeveloped) and email services continue to
+operate as they do today. This gives the charity time and headroom to make measured, well-
+planned decisions rather than reacting under pressure.
+The proposed target model o(cid:431)ers a clear opportunity to simplify services, reduce ongoing costs
+substantially, and put the charity onto a more sustainable footing. Moving the website to free
+charity hosting, resetting onto a charity-aligned domain, and consolidating email and
+productivity tools within Microsoft 365 would reduce annual costs from around £360 to as little
+as £10 under the Business Basic option, while still leaving a clear and a(cid:431)ordable upgrade path if
+stronger security or desktop applications are required in future.
+Overall, the IT and web position can be resolved quickly and with relatively modest e(cid:431)ort. The
+changes proposed are well-trodden, low-risk, and widely used across the charity sector. They
+provide trustees with reassurance that costs are under control, services are resilient, and the
+organisation retains flexibility to adapt as its needs evolve.
+Best wishes,
+Stuart
+5 | Page
+
+Appendix: Screenshots of existing services, costs and expiry dates
+6 | Page
+
+7 | Page

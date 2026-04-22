@@ -1,0 +1,198 @@
+Caledonian Arts Forum
+
+Data Protection
+
+Policy
+
+Caledonian Arts Forum
+
+68 Great King Street
+
+Edinburgh
+
+EH3 6QU
+
+Reviewed: 14 March 2026 - V2.2
+
+Table of Contents
+
+Data Protection Policy
+
+Introduction
+
+At Caledonian Arts Forum, we are committed to maintaining the trust and confidence of our members and stakeholders. This document outlines how your data will be used, shared and protected. This policy outlines how we handle personal data to comply with the UK General Data Protection Regulation (UK GDPR) and the Data Protection Act 2018.
+
+We aim to ensure that Caledonian Arts Forum manages personal data responsibly and complies with legal obligations under the UK GDPR, and follows best practice as recommended by the Information Commissioners Office (ICO). To that end, we are also registered with the Information Commissioner’s Office (www.ico.org.uk), with the registration reference: ZB699165.
+
+1. Roles and Responsibilities
+
+1.1 Data Controller
+
+Caledonian Arts Forum acts as the data controller for the personal data we collect and process. As a data controller, we are responsible for determining the purposes and means of processing personal data. Our responsibilities include:
+
+Ensuring that personal data is processed lawfully, fairly, and transparently.
+
+Collecting and processing only the data necessary for specific, legitimate purposes.
+
+Implementing appropriate security measures to protect personal data.
+
+1.2 Data Processor
+
+As a small charity, we do not have a dedicated data processing team. Our data processing activities are limited to internal handling of personal data by authorised volunteers who have specific, and limited, privileges to access Members data.
+
+2. Consent for Data Collection and Use
+
+We obtain your consent for the collection and use of your data through these ways:
+
+Explicit Consent Upon Joining: When you join Caledonian Arts Forum, we will explicitly ask for your consent to collect, store, and process your personal data. This includes obtaining your permission for specific uses, such as sending newsletters, organizing events, and processing Gift Aid claims.
+
+Annual Consent Review: As part of the annual membership renewal process, each Member is requested to review their consents and preferences previously provided in the WebCollect Membership Form fields, to reaffirm the data is accurate, and update if necessary.
+
+3. Lawful basis for Processing Data
+
+We process personal data based on the following legal grounds:
+
+Consent: We obtain explicit consent from you for specific purposes.
+
+Legitimate Interests: We process data necessary for the legitimate interests of the charity, such as maintaining contact with members and organising activities.
+
+Legal Obligation: We process data to comply with legal obligations, such as processing Gift Aid claims.
+
+4. Purpose of Data Processing of Personal Data
+
+We use personal data for the following purposes:
+
+To maintain contact with our members
+
+To distribute newsletters and updates
+
+To organize events and activities
+
+To allocate a membership number and membership type
+
+To manage membership records
+
+To allocate door entry fobs, when requested
+
+To process Gift Aid donations
+
+To Maintain Historical Records: We use photographic images submitted by members to build and maintain a historical record of the Society's activities and achievements.
+
+5. What Data We Collect
+
+We primarily collect the following types of personal data, directly from you. This data enables the effective management of the day-to-day business of the Society and, where required, it’s legal obligations:
+
+Names
+
+Addresses
+
+Email addresses
+
+Phone numbers
+
+Financial information for Gift Aid purposes (e.g., taxpayer status)
+
+Photographic Images: Images submitted by members for competitions and historical records.
+
+6. Data Protection - Storage and Security
+
+Personal data, including Gift Aid information, is stored securely on our systems.
+
+We use Microsoft 365 Business and WebCollect for document storage and email, which provides a secure cloud-based platform, with data stored within the United Kingdom.
+
+Access to personal data is restricted to authorised volunteers only.
+
+We use encryption, passwords, and for Microsoft 365; multi-factor authentication, for digital data.
+
+Microsoft 365 Business also provides document versioning and recovery in the event of a systems failure or outage. Microsoft’s Service Level agreement is set at 99.9% availability.
+
+7. Data Handling - Use of WebCollect and Microsoft 365 Business
+
+We use WebCollect to collect your data at the point of joining; requesting your consent for Gift Aid, inclusion of email distribution lists, permission to use images submitted to Society competitions (both internally and externally, with likeminded organisations such as PSA), as well as consent to use your images on Caledonian Arts Forum Social media accounts to help promote the work of the Society. Membership fees are also collected through WebCollect upon joining, and annually thereafter.
+
+We use Microsoft 365 Business and WebCollect to manage our document storage, email, security, and resilience needs. Your membership details and contact information will be secured within Microsoft 365 Business, which provides the following services to help us ensure the safety and integrity of our data:
+
+Document Storage: Securely stores documents and data in the cloud, within UK Data Centres.
+
+Document Security: Controls access permissions to ensure only authorised volunteers can view or edit documents.
+
+Resilience Services: Robust document, email management and resilience in the event of any technical failures.
+
+Microsoft 365 Business provides the tools to enable us to be compliant with UK GDPR, and we rely on their services to maintain the confidentiality, integrity, and availability of our data.
+
+8. Privacy Notice
+
+Caledonian Arts Forum publishes a Privacy Notice which also supports our compliance with and to UK General Data Protection Regulation (UK GDPR) and the Data Protection Act 2018. The Privacy Notice can be found on our Caledonian Arts Forum Website at the following address:
+
+https://epsoc.org.uk/wp-content/uploads/2026/03/Caledonian Arts Forum-Privacy-Notice-2026-V2.2.pdf
+
+9. Collecting and use of Gift Aid Information
+
+In the UK, Gift Aid allows charities to claim back a portion of the tax paid on donations and membership fees by UK taxpayers, effectively increasing the value of the donations and membership fees at no extra cost to the Member:
+
+When collecting Gift Aid, we will ask you to complete a Gift Aid declaration form, providing your consent for us to claim Gift Aid on your donations.
+
+You can withdraw your consent at any time by contacting us using the details provided in Paragraph 10 below.
+
+We collect information necessary for Gift Aid claims, including your name, address, and confirmation of your taxpayer status.
+
+We use Gift Aid information solely for the purpose of claiming Gift Aid from HM Revenue & Customs (HMRC).
+
+We share your data with HMRC as required to process Gift Aid claims.
+
+10. Data Retention Schedule
+
+We will retain personal data, including Gift Aid information, only for as long as necessary to fulfil the purposes for which it was collected:
+
+General Membership data will be retained for one year following your Membership lapsing.
+
+Gift Aid records will be retained for at least six years, as required by HMRC.
+
+Trustee records will be retained for at least six years, as required by the Office of the Scottish Charity Regulator (OSCR).
+
+Lapsed Members have the option to remain registered as a Contact to enable them to continue to receive Newsletters and other general correspondence from the Society. Only Name and email address will be retained in this case.
+
+11. How to Make a Data Access Request
+
+Individuals have the right to access their personal data held by Caledonian Arts Forum. To make a data access request, please submit a written request to the following email address:
+
+Email: [EMAIL]
+
+We will respond to your request within one month, as required by law.
+
+12. Incident Response - Data Breach
+
+In the event of a data breach, we will:
+
+Notify the Information Commissioner’s Office (ICO) within 72 hours if the breach poses a risk to individuals.
+
+Inform affected individuals promptly if the breach poses a high risk to their rights and freedoms.
+
+13. [PERSON]
+
+This policy is reviewed annually and updated as necessary to reflect changes in legislation or our operations.
+
+The next review date is March 2027.
+
+14. How to complain
+
+If you have any concerns about our use of your personal data, you can make a complaint to us using the contact details below:
+
+The Secretary
+Caledonian Arts Forum
+Email: [EMAIL]
+
+If you remain unhappy with how we’ve used your data after raising a complaint with us, you can also complain to the ICO at the following address:
+
+Information Commissioner’s Office
+Wycliffe House
+Water Lane
+
+Wilmslow
+
+Cheshire
+ K9 5AF
+
+Helpline number: [PHONE]
+
+Website: https://www.ico.org.uk/make-a-complaint

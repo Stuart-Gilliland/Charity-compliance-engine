@@ -1,0 +1,152 @@
+Caledonian Arts Forum
+
+Privacy Notice
+
+Caledonian Arts Forum
+
+68 Great King Street
+
+Edinburgh
+
+EH3 6QU
+
+Reviewed: 14 March 2026 - v2.2
+
+Table of Contents
+
+Privacy Notice
+
+Introduction
+
+At Caledonian Arts Forum, we are committed to maintaining the trust and confidence of our members and stakeholders. This document outlines our Privacy Notice and how your data will be used, shared and protected. This notice outlines how we handle personal data to comply with the UK General Data Protection Regulation (UK GDPR) and the Data Protection Act 2018.
+
+We aim to ensure that Caledonian Arts Forum manages personal data responsibly and complies with legal obligations under the UK GDPR, and follows best practice as recommended by the Information Commissioners Office (ICO). To that end, we are also registered with the Information Commissioner’s Office (www.ico.org.uk), with the registration reference: ZB699165.
+
+1. Purpose of Data Processing of Personal Data
+
+We use personal data for the following purposes:
+
+To maintain contact with our members
+
+To distribute newsletters and updates
+
+To organise events and activities
+
+To allocate a membership number and membership type
+
+To manage membership records
+
+To allocate door entry fobs, when requested
+
+To process Gift Aid donations
+
+To Maintain Historical Records: We use photographic images submitted by members to build and maintain a historical record of the Society's activities and achievements.
+
+2. What Data We Collect
+
+We primarily collect the following types of personal data, directly from you. This data enables the effective management of the day-to-day business of the Society and, where required, its legal obligations:
+
+Names
+
+Addresses
+
+Email addresses
+
+Phone numbers
+
+Financial information for Gift Aid purposes (e.g., taxpayer status)
+
+Photographic Images: Images submitted by members for competitions and historical records.
+
+3. Lawful basis for Processing Data
+
+We process personal data based on the following legal grounds:
+
+Consent: We obtain explicit consent from you for specific purposes.
+
+Legitimate Interests: We process data necessary for the legitimate interests of the charity, such as maintaining contact with members and organising activities.
+
+Legal Obligation: We process data to comply with legal obligations, such as processing Gift Aid claims.
+
+4. Data Retention Schedule
+
+We will retain personal data, including Gift Aid information, only for as long as necessary to fulfil the purposes for which it was collected:
+
+General Membership data will be retained for one year following your Membership lapsing.
+
+Gift Aid records will be retained for at least six years, as required by HMRC.
+
+Trustee records will be retained for at least six years, as required by the Office of the Scottish Charity Regulator (OSCR).
+
+Lapsed Members have the option to remain registered as a Contact to enable them to continue to receive Newsletters and other general correspondence from the Society. Only Name and email address will be retained in this case.
+
+5. Third-Party Data Sharing
+
+Any use of third-party services, such as WebCollect or Microsoft 365 Business for document storage and security, is conducted with providers who comply with data protection regulations and provide adequate safeguards.
+
+Members and non-members are invited to take part in the Societies Print International and Digital International competitions which are run annually. Like many Societies, we use external third-party providers to run these competitions. They collect submitted images as well as the same level of personal information defined earlier in this document.
+
+6. Data Protection - Storage and Security
+
+Personal data, including Gift Aid information, is stored securely on our systems.
+
+We use Microsoft 365 Business and WebCollect for document storage and email, which provide a secure cloud-based platform, with data stored within the United Kingdom.
+
+Access to personal data is restricted to authorised volunteers only.
+
+We use encryption, passwords, and for Microsoft 365; multi-factor authentication, for digital data.
+
+Microsoft 365 Business also provides document versioning and recovery in the event of a systems failure or outage. Microsoft’s Service Level agreement is set at 99.9% availability.
+
+7. Data Subject Rights
+
+Individuals have the following rights regarding their personal data:
+
+Right to Access: Request access to their personal data.
+
+Right to Rectification: Request correction of inaccurate data.
+
+Right to Erasure: Request deletion of their data.
+
+Right to Restrict Processing: Request restriction of processing under certain conditions.
+
+Right to Data Portability: Request transfer of their data to another organization.
+
+Right to Object: Object to the processing of their data.
+
+You don’t usually need to pay a fee to exercise your rights. If you make a request, we have one calendar month to respond to you. To make a data protection rights request, please contact us using the contact details at the bottom of this privacy notice.
+
+8. Website Operation
+
+Caledonian Arts Forum operates a website at https://epsoc.org.uk. When the site is accessed, a number of non-personal cookies may be placed in the visitor's web browser. We use both session and persistent cookies to operate the website and maintain its functionality. For users with website accounts (for example site administrators or those accessing booking facilities), essential cookies are used solely to authenticate users, maintain secure sessions, and help prevent unauthorised or fraudulent access.
+
+The website includes an AI-powered chatbot which helps visitors find information and navigate the website. The chatbot responds to questions using information from the Caledonian Arts Forum website and knowledge base.
+
+For diagnostic and system monitoring purposes, chatbot interaction data is retained for a period of 30 days, after which it is automatically deleted. During this period, IP addresses associated with chatbot sessions may be retained as part of standard system logging. Caledonian Arts Forum does not use this data to identify, track, or profile individual visitors, and it is used solely for the purpose of monitoring system performance and resolving technical issues.
+
+Caledonian Arts Forum does not collect, store, or make use of the content of chatbot conversations for any purpose beyond the diagnostic retention period described above. Visitors should avoid entering personal or sensitive information into the chatbot.
+
+Further information about the cookies used on this website can be found in our Cookie Policy: https://epsoc.org.uk/cookie-policy-uk/
+
+9. How to complain
+
+If you have any concerns about our use of your personal data, you can make a complaint to us using the contact details below:
+
+The Secretary
+Caledonian Arts Forum
+Email: [EMAIL]
+
+If you remain unhappy with how we’ve used your data after raising a complaint with us, you can also complain to the ICO at the following address:
+
+Information Commissioner’s Office
+Wycliffe House
+Water Lane
+
+Wilmslow
+
+Cheshire
+K9 5AF
+
+Helpline number: [PHONE]
+
+Website: https://www.ico.org.uk/make-a-complaint

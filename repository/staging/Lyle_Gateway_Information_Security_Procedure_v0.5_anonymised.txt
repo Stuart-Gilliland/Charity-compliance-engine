@@ -1,0 +1,253 @@
+Information Security
+
+Procedure
+
+Introduction:
+
+Strathaven Community Trust
+
+[PERSON]
+
+31 Union Street
+
+Greenock
+
+PA16 8DD
+
+Scottish Charitable Incorporated Organisation (SCIO)
+
+Charity Number: SC044468
+
+Registered with the Information Commissioner’s Office (ICO): [ZC088922].
+
+Approved by the Board: [date]
+
+Version: 0.5
+
+1. Purpose
+
+This Information Security Procedure sets out how Strathaven Community Trust protects information and personal data in practice.
+
+It supports and complements the charity’s Data Protection Policy and Privacy Notice and describes the technical and organisational measures used to keep information secure, confidential, and available when needed.
+
+The procedure is designed to be proportionate to the size and nature of the charity while meeting the requirements of the UK General Data Protection Regulation (UK GDPR) and the Data Protection Act 2018.
+
+2. Scope
+
+This procedure applies to:
+
+All trustees
+
+All employees
+
+All volunteers
+
+Any person granted access to Strathaven Community Trust information or systems
+
+It covers:
+
+Digital information held in Microsoft 365
+
+Paper records
+
+Charity-owned devices
+
+Personal devices used for charity purposes
+
+3. Roles and Responsibilities
+
+Board of Trustees
+
+The Board has overall responsibility for information security and must ensure appropriate controls are in place.
+
+Data Protection Officer
+
+The Data Protection Officer (DPO) provides advice and oversight on information security and data protection matters and coordinates responses to incidents.
+
+Trustees, Staff, and Volunteers
+
+All users must:
+
+Follow this procedure
+
+Protect login details and devices
+
+Report any suspected security incidents promptly
+
+Use charity systems responsibly and for charity purposes only
+
+4. Information Classification
+
+Strathaven Community Trust classifies information into three broad categories:
+
+Public
+
+Information intended for public use, such as website content and published reports.
+
+Internal
+
+Operational information intended for trustees, staff, or volunteers, such as meeting papers and internal emails.
+
+Confidential / Personal Data
+
+Information that must be protected, including:
+
+Personal data of service users
+
+Safeguarding information
+
+Health or wellbeing information
+
+Staff, volunteer, and trustee records
+
+Handling requirements increase with sensitivity.
+
+5. Core Technology and Systems
+
+Strathaven Community Trust uses Microsoft 365 as its core technology platform.
+
+SharePoint is the primary data store
+
+Outlook is used for email
+
+Access is web-based
+
+No routine storage of charity data on local devices
+
+This approach reduces risk and ensures consistent security controls.
+
+6. Access Control and User Management
+
+All users are provided with individual Microsoft 365 accounts
+
+Access is granted on a need-to-know basis based on role
+
+Role-based permissions are used within SharePoint
+
+The number of users is intentionally limited (typically fewer than seven)
+
+When a user leaves the charity or changes role:
+
+Access is reviewed promptly
+
+Accounts are disabled or adjusted as required
+
+7. Authentication and Password Security
+
+All users must authenticate using multi-factor authentication (MFA) via Microsoft Authenticator
+
+Passwords must be strong and kept confidential
+
+Passwords must never be shared
+
+Users must not reuse charity passwords elsewhere
+
+8. Devices and Equipment
+
+Charity-Owned Equipment
+
+Strathaven Community Trust typically uses:
+
+Two laptops
+
+One desktop computer
+
+A small number of staff mobile phones
+
+Rules for charity equipment:
+
+Devices are for charity business only
+
+No personal software or applications should be installed
+
+Devices must be kept secure when not in use
+
+Devices should be locked when unattended
+
+Personal Devices
+
+Where personal devices are used:
+
+Access is via secure Microsoft 365 web or approved apps
+
+No local storage of charity data is expected
+
+Devices should be protected with a password or biometric lock
+
+Devices must not be shared with others when logged in
+
+9. Storage of Information
+
+All charity information should be stored in Microsoft 365 SharePoint
+
+Local storage of files should be avoided
+
+Downloads of personal or sensitive data should be limited and temporary
+
+Paper records should be kept to a minimum and stored securely
+
+10. Email and [PERSON] email accounts must be used for charity business
+
+Personal email accounts must not be used to send or receive charity data
+
+Care must be taken to check recipients before sending emails
+
+Personal or sensitive data should only be shared where necessary
+
+Attachments containing personal data should be avoided where secure links can be used instead
+
+11. Physical Security and Paper Records
+
+Paper records must be stored securely
+
+Access to physical records should be restricted
+
+Records must not be left unattended in public or shared spaces
+
+Paper records must be disposed of securely when no longer required
+
+12. Incident and Breach Management
+
+An information security incident may include:
+
+Loss or theft of a device
+
+Accidental disclosure of personal data
+
+Unauthorised access to systems
+
+Sending information to the wrong recipient
+
+All incidents or suspected incidents must be reported immediately to the Data Protection Officer.
+
+The charity will respond in line with its Data Breach Procedure and legal obligations, including notification to the ICO where required.
+
+13. Training and Awareness
+
+Trustees, staff, and volunteers will receive basic information security guidance
+
+This procedure forms part of induction
+
+Refresher awareness will be provided as needed
+
+Updates will be communicated when procedures change
+
+14. Review and Maintenance
+
+This procedure will be:
+
+Reviewed at least annually
+
+Updated following any significant change to systems, risks, or legislation
+
+Approved by the Board of Trustees
+
+Contact
+
+For advice, concerns, or to report an incident, contact:
+
+Data Protection Officer
+[PERSON] – Trustee / Secretary
+[PERSON]: [EMAIL]
+
+Version Control

@@ -1,0 +1,89 @@
+Acceptable Use
+
+Policy
+
+Introduction:
+
+Strathaven Community Trust
+
+[PERSON]
+
+31 Union Street
+
+Greenock
+
+PA16 8DD
+
+Scottish Charitable Incorporated Organisation (SCIO)
+
+Charity Number: SC044468
+
+Regulated by the Office of the Scottish Charity Regulator (OSCR)
+
+Registered with the Information Commissioner’s Office (ICO): [ZC088922].
+
+Published: February 2026
+
+Version: 0.5
+
+1. Purpose
+
+This guidance sets out acceptable use of Strathaven Community Trust systems and equipment.
+
+2. Scope
+
+Applies to all trustees, staff, and volunteers.
+
+3. General Principles
+
+Charity systems are for charity business only
+
+Users must act responsibly and securely
+
+Personal use is not permitted on charity-owned devices
+
+4. Systems and Accounts
+
+Individual Microsoft 365 accounts must be used
+
+Accounts must not be shared
+
+MFA must remain enabled
+
+5. Devices
+
+Charity devices must not have personal software installed
+
+Devices must be kept secure and locked when unattended
+
+Personal devices may be used securely where approved
+
+6. Email and Internet Use
+
+Charity email accounts must be used for charity business
+
+Care must be taken with links and attachments
+
+7. Data Handling
+
+Personal data must be handled in line with data protection policies
+
+Files should be stored in SharePoint, not locally
+
+8. Breaches
+
+Misuse of systems may result in access being withdrawn.
+
+9. Review
+
+This guidance will be reviewed annually.
+
+Contact
+
+For advice, concerns, or to report an incident, contact:
+
+Data Protection Officer
+[PERSON] – Trustee / Secretary
+[PERSON]: [EMAIL]
+
+Version Control

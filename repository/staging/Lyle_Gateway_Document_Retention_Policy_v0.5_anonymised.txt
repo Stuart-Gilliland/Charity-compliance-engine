@@ -1,0 +1,79 @@
+Document Retention Policy
+
+Introduction:
+
+Strathaven Community Trust
+
+[PERSON]
+
+31 Union Street
+
+Greenock
+
+PA16 8DD
+
+Scottish Charitable Incorporated Organisation (SCIO)
+
+Charity Number: SC044468
+
+Regulated by the Office of the Scottish Charity Regulator (OSCR)
+
+Registered with the Information Commissioner’s Office (ICO): [ZC088922].
+
+Published: February 2026
+
+Version: 0.5
+
+1. Purpose
+
+This policy explains how long Strathaven Community Trust keeps information and how it is securely disposed of. It supports good governance and compliance with data protection law.
+
+2. Scope
+
+This policy applies to all records held by the charity, whether digital or paper-based.
+
+3. Principles
+
+Data is kept only as long as necessary
+
+Retention meets legal and regulatory requirements
+
+Disposal is secure and appropriate
+
+4. Typical Retention Periods
+
+Trustee records: minimum 6 years after leaving office (OSCR Requirement)
+
+Staff records: in line with employment law
+
+Volunteer records: up to 6 months after role ends
+
+Service Users/Participants: up to 6 months after use ends
+
+Financial records: minimum 6 years (HMRC Requirement)
+
+Safeguarding records: retained as long as necessary and reviewed regularly
+
+5. Secure Disposal
+
+Digital records are securely deleted
+
+Paper records are shredded or securely destroyed
+
+6. Responsibility
+
+The Board oversees compliance. Day-to-day responsibility sits with the Secretary and DPO.
+
+7. Review
+
+This policy will be reviewed annually and updated as required.
+
+Contact
+
+For advice, concerns, or to report an incident, contact:
+
+Data Protection Officer
+[PERSON] – Trustee / Secretary
+[PERSON]: [EMAIL]
+
+Version Control

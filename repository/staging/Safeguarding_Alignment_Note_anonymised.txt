@@ -1,0 +1,47 @@
+Safeguarding Alignment Analysis
+
+Strathaven Community Trust vs Church of Scotland — Note for Discussion
+
+Overall Assessment
+
+Alignment is largely achievable and the gap is smaller than it might appear. The two frameworks share the same underlying values and a very similar architecture. The complexity is not policy content — it is structural and constitutional, as identified in the draft email. The Strathaven Community Trust documents are genuinely strong — this is not an exercise in aligning upward to a better standard, but in aligning two equivalent frameworks that have slightly different structural forms.
+
+Where They Already Align Well
+
+Values and intent are closely matched. Both frameworks prioritise the person at risk above all else, require immediate reporting, treat safeguarding as a whole-organisation responsibility, and treat confidentiality as subordinate to the duty to protect.
+
+Responding to disclosures — both use the same model: stay calm, listen, do not investigate, report promptly, record carefully. The Strathaven Community Trust Volunteer Guide and Policy are more detailed and practically written than the Church guidance in this respect.
+
+Record keeping — both require secure, contemporaneous records retained appropriately. Strathaven Community Trust's policy is more specific and arguably stronger, with a 7-year minimum, child records to age 25, and explicit GDPR framing.
+
+Training requirements — both recognise tiered training needs across different roles. Strathaven Community Trust's policy is more granular and more current.
+
+Referral to statutory agencies — both reference social work, police, and multi-agency working. Strathaven Community Trust correctly references [PERSON] specifically.
+
+Vetting — both operate under the same PVG Scheme legislation. There is no gap here.
+
+Where the Frameworks Diverge
+
+The table below sets out the areas of difference, how significant each is, and what it means in practice.
+
+The Constitutional Issue
+
+This is the crux of the matter. The Church of Scotland Safeguarding Act 2018 (particularly Section 16) creates binding obligations on Church bodies — Kirk Sessions, [PERSON], CrossReach, and similar entities. Strathaven Community Trust as a SCIO is not currently one of those bodies and cannot simply adopt the Church framework by policy alone. For that alignment to have formal effect, the Kirk Session would need to formally recognise Strathaven Community Trust's relationship in a way that brings it within the governance chain — which is exactly what getting the constitution agreed at Kirk Session would achieve.
+
+The non-denominational framing in the constitution is important. If the constitution makes clear that Strathaven Community Trust is non-denominational in its outreach and services, it removes any suggestion that the charity operates as a faith-based organisation in its service delivery, while still allowing the governance relationship with the [PERSON] to function as an oversight and support structure. That is a clean and defensible position.
+
+What Alignment Would Practically Mean — Two Models
+
+Model A — Mutual recognition, parallel policies (lower risk, achievable now)
+
+Strathaven Community Trust keeps its own policy (which is excellent and more detailed), but includes a clause stating that where activities take place on Church premises or involve Church-connected volunteers, the organisation will work collaboratively with the Kirk Session's Safeguarding Coordinator and notify them of significant concerns. This is a cooperation undertaking, not a subordination of governance.
+
+Model B — Constitutional alignment with formal adoption (stronger, requires constitution work first)
+
+Once the constitution is agreed at Kirk Session and Strathaven Community Trust's relationship with the [PERSON] is formally defined, Strathaven Community Trust could formally reference the Church Safeguarding framework as a supplementary standard — particularly for activities on Church premises — while retaining its own DSL structure and OSCR reporting obligations. This is the fuller version of what the draft email describes.
+
+Practical Recommendation
+
+For now, [PERSON] is the right approach. It does not require waiting for the constitution to be finalised, it creates a working relationship, and it does not compromise Strathaven Community Trust's SCIO obligations to OSCR. When the constitution question is resolved, upgrading to Model B would be straightforward because the policy content is already well aligned.
+
+One immediate addition worth making to the Strathaven Community Trust policy, regardless of which model is chosen, is a brief Partnership Working clause that names the Kirk Session as a key partner in safeguarding oversight for premises-based activities. This costs nothing constitutionally, signals good faith, and builds the relationship in practical terms.

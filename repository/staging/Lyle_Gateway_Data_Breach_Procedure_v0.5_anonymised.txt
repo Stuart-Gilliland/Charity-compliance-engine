@@ -1,0 +1,95 @@
+Data Breach
+
+Procedure
+
+Introduction:
+
+Strathaven Community Trust
+
+[PERSON]
+
+31 Union Street
+
+Greenock
+
+PA16 8DD
+
+Scottish Charitable Incorporated Organisation (SCIO)
+
+Charity Number: SC044468
+
+Regulated by the Office of the Scottish Charity Regulator (OSCR)
+
+Registered with the Information Commissioner’s Office (ICO): [ZC088922].
+
+Published: February 2026
+
+Version: 0.5
+
+1. Purpose
+
+This procedure sets out how Strathaven Community Trust identifies, reports, manages, and responds to personal data breaches. It supports the Data Protection Policy and Information Security Procedure and ensures compliance with UK GDPR and the Data Protection Act 2018.
+
+2. Scope
+
+This procedure applies to all trustees, employees, volunteers, and anyone handling personal data on behalf of Strathaven Community Trust.
+
+3. What is a Personal Data Breach
+
+A personal data breach is a security incident that leads to the accidental or unlawful destruction, loss, alteration, unauthorised disclosure of, or access to personal data.
+
+Examples include:
+
+Loss or theft of a device
+
+Sending personal data to the wrong recipient
+
+Unauthorised access to systems
+
+Loss of availability of personal data
+
+4. Immediate Actions
+
+Anyone who becomes aware of a suspected breach must:
+
+Act quickly to contain the breach if safe to do so
+
+Report the incident immediately to the Data Protection Officer (DPO)
+
+Not attempt to investigate alone or conceal the incident
+
+5. Reporting and Assessment
+
+The DPO will:
+
+Record the incident
+
+Assess the nature, scope, and severity
+
+Determine the risk to individuals’ rights and freedoms
+
+6. Notification
+
+Where required:
+
+The ICO will be notified within 72 hours
+
+Affected individuals will be informed without undue delay if there is a high risk
+
+7. Record Keeping
+
+All breaches, including near misses, will be logged and reviewed to reduce future risk.
+
+8. Review
+
+This procedure will be reviewed annually or following any significant incident.
+
+Contact
+
+For advice, concerns, or to report an incident, contact:
+
+Data Protection Officer
+[PERSON] – Trustee / Secretary
+[PERSON]: [EMAIL]
+
+Version Control
