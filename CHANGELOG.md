@@ -60,3 +60,10 @@
 **Summary:** Anonymisation script v0.1.0 added to `ingestion/anonymise/`. Presidio pipeline with retain list, replacement map, and format handlers for DOCX, PDF, and HTML. Outputs written to `repository/staging/` as plain text files with anonymisation report.  
 **Rationale:** First working code in the project. Anonymisation is the mandatory first step before any document enters the repository. Script includes retain list covering all authoritative sources and legislation, and replacement map converting real organisation names to fictional equivalents for readability.  
 **Dependencies or implications:** XLSX files (doc_010) not handled by this script — require separate processing. All outputs require human curator review before promotion to repository/approved/. Script must be run from project root with venv active.
+
+### [0.2.0] — 2026-04-22
+**Type:** Build  
+**Author:** Project lead  
+**Summary:** Anonymisation pipeline tested and validated on two documents. Three issues identified and resolved — combined organisation name replacement, underscore-format name redaction, and partial email pattern redaction. Pipeline confirmed clean on both a simple policy and a document containing named individuals and email fragments.  
+**Rationale:** Testing against a document with real edge cases (named individual in non-standard format, partial email addresses) validated that the pipeline handles real-world content correctly. All identified issues resolved before running full pipeline across all 37 documents.  
+**Dependencies or implications:** Pipeline ready for full run across source-documents/. XLSX (doc_010) still requires separate handling. Human curator review of all outputs remains mandatory before promotion to repository/approved/.
