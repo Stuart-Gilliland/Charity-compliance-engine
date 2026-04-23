@@ -74,3 +74,10 @@
 **Summary:** Full anonymisation pipeline run completed — 36 of 37 documents processed successfully, 0 errors. Anonymised outputs written to repository/staging/. XLSX gift register (doc_010) not processed — requires separate handling as confirmed in ADR-004.  
 **Rationale:** First full pipeline run validates that the anonymisation approach works across all supported formats (DOCX, PDF, HTML) and document types in the repository.  
 **Dependencies or implications:** All 36 outputs require human curator review before promotion to repository/approved/. Curator review is the next step before chunking and embedding can begin. XLSX handling to be addressed separately.
+
+### [0.2.2] — 2026-04-23
+**Type:** Schema + Decision  
+**Author:** Project lead  
+**Summary:** KB register created at docs/kb-register/kb-register.json. Three knowledge types formalised — Type 1 charity documents, Type 2 external reference summaries, Type 3 structured KB additions. 37 Type 1 entries, 15 Type 3 SCVO governance template entries, 2 Type 2 placeholder entries for OSCR and ICO summaries. Three Pinecone namespaces defined — charity-docs, external-refs, kb-additions. Quarterly review cycle established with next review due 2026-07-01.  
+**Rationale:** KB register provides single source of truth for all repository content. Essential for managing attribution obligations, tracking ingestion status, and supporting the quarterly review cycle. SCVO governance templates added as first Type 3 content — covers all five Scottish charity governance structures with guidance, template and additional clauses per structure.  
+**Dependencies or implications:** Pinecone index configuration must be updated to support three namespaces. SCVO templates require separate ingestion pipeline run — no anonymisation needed but attribution metadata must be applied. Two Type 2 summaries flagged as not_yet_written — priority task before Stage 2 retrieval testing. source-documents-kb/ added to gitignore.
