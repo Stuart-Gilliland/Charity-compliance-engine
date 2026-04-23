@@ -211,3 +211,6 @@ source-documents/
 
 # Anonymisation test output
 ingestion/anonymise/test_output/
+
+# SCVO governance templates — source material, not for commit
+source-documents-kb/
