@@ -81,3 +81,10 @@
 **Summary:** KB register created at docs/kb-register/kb-register.json. Three knowledge types formalised — Type 1 charity documents, Type 2 external reference summaries, Type 3 structured KB additions. 37 Type 1 entries, 15 Type 3 SCVO governance template entries, 2 Type 2 placeholder entries for OSCR and ICO summaries. Three Pinecone namespaces defined — charity-docs, external-refs, kb-additions. Quarterly review cycle established with next review due 2026-07-01.  
 **Rationale:** KB register provides single source of truth for all repository content. Essential for managing attribution obligations, tracking ingestion status, and supporting the quarterly review cycle. SCVO governance templates added as first Type 3 content — covers all five Scottish charity governance structures with guidance, template and additional clauses per structure.  
 **Dependencies or implications:** Pinecone index configuration must be updated to support three namespaces. SCVO templates require separate ingestion pipeline run — no anonymisation needed but attribution metadata must be applied. Two Type 2 summaries flagged as not_yet_written — priority task before Stage 2 retrieval testing. source-documents-kb/ added to gitignore.
+
+### [0.2.3] — 2026-04-23
+**Type:** Build  
+**Author:** Project lead  
+**Summary:** Anonymisation script updated to read SOURCE_DOCS_PATH from .env file. Script now machine-agnostic — works on both laptop and desktop without code changes. Clear error messages if .env is missing or path is incorrect.  
+**Rationale:** Two-machine development workflow requires paths to be configurable per machine. .env files are machine-specific and gitignored. SharePoint sync via OneDrive provides source document access on both machines.  
+**Dependencies or implications:** Both machines must have .env configured with correct local paths before running pipeline. Desktop .env to be configured on next desktop session.
