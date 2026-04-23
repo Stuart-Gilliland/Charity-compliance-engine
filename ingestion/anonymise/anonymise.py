@@ -1,16 +1,20 @@
 """
 Anonymisation pipeline for the Charity Compliance Engine.
+Reads source and output paths from .env file.
 """
 
 import re
 import json
 from pathlib import Path
+from dotenv import load_dotenv
+import os
 from presidio_analyzer import AnalyzerEngine
 from presidio_anonymizer import AnonymizerEngine
 from presidio_anonymizer.entities import OperatorConfig
 from docx import Document
 import pdfplumber
 
+load_dotenv()
 
 RETAIN_LIST = [
     "OSCR", "Office of the Scottish Charity Regulator",
@@ -32,7 +36,6 @@ RETAIN_LIST = [
     "Scotland", "Scottish", "United Kingdom", "UK",
 ]
 
-# Order matters — combined patterns first, then individual terms
 REPLACEMENT_MAP = {
     "Edinburgh Photographic Society (EPS)": "Caledonian Arts Forum",
     "Edinburgh Photographic Society": "Caledonian Arts Forum",
@@ -41,16 +44,9 @@ REPLACEMENT_MAP = {
     "Lyle_Gateway": "Strathaven Community Trust",
 }
 
-# Underscore-format names e.g. Chris_Morson
 UNDERSCORE_NAME_PATTERN = re.compile(r'\b[A-Z][a-z]+_[A-Z][a-z]+\b')
-
-# Full email addresses e.g. name@domain.com
 FULL_EMAIL_PATTERN = re.compile(r'\b[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}\b')
-
-# Partial email — word followed by @ with nothing after e.g. president@
 TRAILING_AT_PATTERN = re.compile(r'\b[a-zA-Z0-9._%+-]+@(?=[\s,]|$)')
-
-# Domain-only fragment e.g. @edinburghphotographicsociety.co.uk
 LEADING_AT_PATTERN = re.compile(r'@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}\b')
 
 OPERATORS = {
@@ -197,12 +193,26 @@ def run_pipeline(source_dir, output_dir):
 
 if __name__ == "__main__":
     project_root = Path(__file__).resolve().parents[2]
-    source_dir = project_root / "source-documents"
+
+    source_docs = os.getenv("SOURCE_DOCS_PATH")
+    if not source_docs:
+        print("ERROR: SOURCE_DOCS_PATH not set in .env file")
+        print("Copy .env.example to .env and configure paths for this machine")
+        exit(1)
+
+    source_dir = Path(source_docs)
     output_dir = project_root / "repository" / "staging"
+
+    if not source_dir.exists():
+        print(f"ERROR: Source directory not found: {source_dir}")
+        print("Check SOURCE_DOCS_PATH in .env is correct for this machine")
+        exit(1)
+
     print("Charity Compliance Engine — Anonymisation Pipeline")
     print("=" * 50)
     print(f"Source:  {source_dir}")
     print(f"Output:  {output_dir}")
     print(f"Note:    XLSX files require separate handling")
     print("=" * 50 + "\n")
+
     run_pipeline(source_dir, output_dir)
